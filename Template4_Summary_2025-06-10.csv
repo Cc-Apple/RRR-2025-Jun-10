@@ -1,0 +1,2 @@
+対象期間,対象デバイス,対象ログ数,サマリ種別,チェーン・オブ・カストディ,CSVダイジェスト,被害記録,総括
+2025-06-10,"iPhone16,1 / iP15P-Ghost","3本 (zip-part-1,2,3)",1日分析 (S2後半→S3移行期ブリッジ),sha256=eaeb74148d1b99090...4934f 一致確認済,"bug_type=298, codeSigningMonitor=2, OTACrashCopier, Tamper語彙=0",署名監視強化の発火、Appleサポート履歴と連動疑い,Tamper語彙なし、安全ログ風だが署名監視常駐化 → Kabuki進化のブリッジ日

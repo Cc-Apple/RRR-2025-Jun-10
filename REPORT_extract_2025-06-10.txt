@@ -1,0 +1,16 @@
+# Extraction Summary
+Generated: 2025-08-19T01:56:01.972952+07:00
+## Source File
+- path: /mnt/data/log-bb-2025-06-10-stats.plist
+- size_bytes: 999
+- mtime_local: 2025-08-19T01:55:58.551640+07:00
+- ctime_local: 2025-08-19T01:55:58.551640+07:00
+- sha256: eaeb74148d1b99090e5b5395f9b29cc69c41f544872158ba096bc22011f4934f
+## Unique Identifiers (dedup)
+- [bug_type] 195  @ root.bug_type
+- [uuid_like] 776109B8-8088-424C-B1BD-F90A2CCAF15C  @ root.description
+- [os_version] iPhone OS 18.5 (22F76)  @ root.os_version
+## PID List (unique, ascending)
+- None found
+## Keyword Hits
+- None

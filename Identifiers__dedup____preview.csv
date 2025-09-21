@@ -1,0 +1,4 @@
+,key,value,path,type
+0,bug_type,195,root.bug_type,str
+1,uuid_like,776109B8-8088-424C-B1BD-F90A2CCAF15C,root.description,uuid
+2,os_version,iPhone OS 18.5 (22F76),root.os_version,str

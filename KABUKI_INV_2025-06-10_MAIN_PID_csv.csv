@@ -1,0 +1,9 @@
+file,sha256,pid_count,unique_pids,session_count,unique_sessions
+/mnt/data/part1.zip/part1.txt,09cbafbd251a47cadab496303be1ed23496ac30de79e222d5b6101f5b025493d,164,"PID
+0;PID  
+0;PID 0;PID 1;PID 1013;PID 1027;PID 12345;PID 164;PID 231;PID 27137",492,"SESSIONID_CAPTURE;Session ID
+    session_match;Session ID
+-;Session ID
+4;Session ID                        Other;Session ID                  Timestamp;Session ID              PID;Session ID        PID;Session ID      PID;Session ID    PID"
+/mnt/data/part2.zip/part2.txt,7ead6e408c7c3f9569221bee53d9a5902dd9977155b62c76c194b638c1d342ea,842,PID 0;PID 1;PID 11106;PID 1123;PID 12752;PID 129;PID 16165;PID 168;PID 2;PID 20205,60,session ID resets;session IDs;sessionID: abc123;sessionID: myrvjSrLQXKYgple7mj;sessionId             library;sessionId: 9EC207A1-84F7-4E6A-823B-C509FA5A34C0;sessionIds;session_id BF1053;session_id not;session_id pegasus_ver
+/mnt/data/part3.zip/part3.txt,8bdef3268b594cc5c8a6ee80bd0ed36a0ef4d2c7b520b56d57d64242b6b21e44,52,PID 1;PID 137;PID 231;PID 3472;PID 4960;PID 6168;PID 7672;PID:              1089;PID:              1295;PID:              1423,1,session ID: 3A8X-
